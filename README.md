@@ -9,7 +9,8 @@
 
 This repository is a simple and elegant business-card website for liky Solutions, a company specializing in website design and development. The website serves as a showcase for liky Solutions' portfolio, client reviews, and a convenient contact form. It provides a clear and concise overview of the company's web design expertise and offers a seamless way for visitors to explore past work and get in touch.
 
-
+### Demo 
+[Pictures for site ]()
 ## Installation
 l
 To run the project locally, follow these steps:
