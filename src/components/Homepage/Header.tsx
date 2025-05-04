@@ -66,7 +66,7 @@ export default function HomepageHeader() {
             src='/assets/logo.png'
           />
           <div className='font-coiny text-lg leading-5 tracking-wider text-secondary md:text-xl md:leading-6'>
-            <div className='whitespace-nowrap text-primary'>{"Kus'"}</div>
+            <div className='whitespace-nowrap text-primary'>{"Liky'"}</div>
             <div className='whitespace-nowrap'>Solutions</div>
           </div>
         </Navbar.Brand>

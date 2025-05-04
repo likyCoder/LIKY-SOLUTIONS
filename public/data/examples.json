@@ -1,31 +1,31 @@
 [
   {
     "preview": "/assets/examples/example.png",
-    "text": "Sit ex aliquip consequat labore qui aute anim sit. Aliquip fugiat elit ad officia id ad exercitation sit excepteur duis. Nostrud qui ullamco labore nostrud ullamco commodo aute ut proident elit occaecat magna. Veniam quis proident eiusmod laborum laboris veniam. Sunt dolor Lorem sunt aliqua ipsum fugiat aliquip do officia sint minim tempor. Consequat in adipisicing consectetur cillum amet do nulla amet minim sint.",
-    "title": "Website Name",
-    "tags": ["smth", "another tag", "something else"],
-    "images": ["/assets/examples/example.png", "/assets/examples/example1.png"]
+    "text": "A modern e-commerce website built for a local fashion brand. We delivered a sleek UI, secure payments, and responsive design—resulting in a 2x conversion increase within the first month.",
+    "title": "Fashion Cart Pro",
+    "tags": ["e-commerce", "payment gateway", "UI/UX"],
+    "images": ["/assets/examples/example.png"]
   },
   {
     "preview": "/assets/examples/example1.png",
-    "text": "Sit ex aliquip consequat labore qui aute anim sit. Aliquip fugiat elit ad officia id ad exercitation sit excepteur duis. Nostrud qui ullamco labore nostrud ullamco commodo aute ut proident elit occaecat magna. Veniam quis proident eiusmod laborum laboris veniam. Sunt dolor Lorem sunt aliqua ipsum fugiat aliquip do officia sint minim tempor. Consequat in adipisicing consectetur cillum amet do nulla amet minim sint.",
-    "title": "Website Name",
-    "tags": ["smth", "another tag", "something else"],
+    "text": "We developed a cloud-based school management system that simplified attendance, grades, and communication. Staff productivity rose by 60% after deployment.",
+    "title": "EduSync Cloud",
+    "tags": ["school system", "cloud", "automation"],
     "images": ["/assets/examples/example1.png"]
   },
   {
     "preview": "/assets/examples/example2.png",
-    "text": "Sit ex aliquip consequat labore qui aute anim sit. Aliquip fugiat elit ad officia id ad exercitation sit excepteur duis. Nostrud qui ullamco labore nostrud ullamco commodo aute ut proident elit occaecat magna. Veniam quis proident eiusmod laborum laboris veniam. Sunt dolor Lorem sunt aliqua ipsum fugiat aliquip do officia sint minim tempor. Consequat in adipisicing consectetur cillum amet do nulla amet minim sint.",
-    "title": "Website Name",
-    "tags": ["smth", "another tag", "something else"],
+    "text": "This restaurant POS and online ordering platform helped reduce human error and sped up delivery by 40%. Includes menu editing, real-time orders, and payment tracking.",
+    "title": "QuickDine POS",
+    "tags": ["POS system", "restaurant", "delivery tech"],
     "images": ["/assets/examples/example2.png"]
   },
   {
     "preview": "/assets/examples/example3.png",
 
-    "text": "Sit ex aliquip consequat labore qui aute anim sit. Aliquip fugiat elit ad officia id ad exercitation sit excepteur duis. Nostrud qui ullamco labore nostrud ullamco commodo aute ut proident elit occaecat magna. Veniam quis proident eiusmod laborum laboris veniam. Sunt dolor Lorem sunt aliqua ipsum fugiat aliquip do officia sint minim tempor. Consequat in adipisicing consectetur cillum amet do nulla amet minim sint.",
-    "title": "Website Name",
-    "tags": ["smth", "another tag", "something else"],
-    "images": ["/assets/examples/example2.png"]
+    "text": "Built for a startup, this logistics tracking dashboard integrates GPS, driver logs, and client delivery reports. Improved delivery accuracy by 70%.",
+    "title": "TrackIt Hub",
+    "tags": ["logistics", "dashboard", "real-time tracking"],
+    "images": ["/assets/examples/example3.png"]
   }
 ]
