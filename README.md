@@ -11,7 +11,7 @@ This repository is a simple and elegant business-card website for liky Solutions
 
 ### Demo 
 [Pictures for site ](https://github.com/likyCoder/LIKY-SOLUTIONS/blob/main/public/assets/pic1.png)
-[https://github.com/likyCoder/LIKY-SOLUTIONS/blob/main/public/assets/pic1.png]
+![Screenshot 2023-10-21 154835](https://github.com/likyCoder/LIKY-SOLUTIONS/blob/main/public/assets/pic1.png)
 ## Installation
 l
 To run the project locally, follow these steps:
